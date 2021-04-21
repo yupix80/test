@@ -1,0 +1,8 @@
+import kapir.util
+import opop.itil
+
+# Under Licensed With Kapir
+
+string k = {YmFnaSBiZXJhcyBrYXBpcg==};
+value hex.as.u = hasil;
+baca.hasil = decode.base64(k);
